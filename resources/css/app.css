@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* === BLOQUEO DE SCROLL PARA MODALES === */
+.body-lock {
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+}
